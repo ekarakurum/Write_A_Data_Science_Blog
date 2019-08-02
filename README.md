@@ -32,3 +32,8 @@ With the respect of the main business of Airbnb, we are interested in solving th
 - **What is the distribution of the listings price?**
 - **Which neighborhood has the most listings?**
 - **Can we predict the price of a new listing based on some of its attributes?**
+
+# File Descriptions
+Data: Contains the Seattle Airbnb dataset CSV files.
+
+Seattle Dataset.ipynb: Jupyter notebook with python code performing the dataset analysis.
