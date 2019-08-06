@@ -1,5 +1,5 @@
 # Write_A_Data_Science_Blog
-Udacity's Data Scientist Nanodegree Introduction to Data Science Project
+This project was completed as part of the course requirements of [Udacity's Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) certification.
 
 # Table of Contents
 - Installation
@@ -37,3 +37,9 @@ With the respect of the main business of Airbnb, we are interested in solving th
 Data: Contains the Seattle Airbnb dataset CSV files.
 
 Seattle Dataset.ipynb: Jupyter notebook with python code performing the dataset analysis.
+
+# Results
+The main findings of the code can be found at the post available [here](https://medium.com/@karakurum/understanding-crisp-dm-methology-by-analysing-seattle-airbnb-data-4a747e289e8c)
+
+# Licensing
+This project used AIRBNB Seattle dataset and it was obtained from [here](https://www.kaggle.com/airbnb/seattle)
